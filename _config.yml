@@ -1,0 +1,19 @@
+# Site settings
+title: Holman Chung
+email: hhc9231@rit.edu
+description: >
+  Mechanical Engineering • RIT
+baseurl: ""
+url: "http://holmanchung.me"
+github_repo: "https://github.com/holheartedly/holheartedly.github.io"
+twitter: "https://twitter.com/holHEARTedly"
+facebook: "https://www.facebook.com/holman.chung"
+linkedin: "http://www.linkedin.com/pub/holman-chung/63/301/b8b"
+copyright: "&copy; Holman Chung | Design: HTML5 UP"
+
+#Collections
+collections:
+  projects:
+    output: true
+
+exclude: ['README.md', 'README.txt', 'CNAME', 'LICENSE']
