@@ -21,3 +21,5 @@ There are ball bearings on the inner tube of the base which helps hold and
 stabilize the cable as it is being measured from a pressure gage on top.
 Compared to the initial design, the final design allowed for a more accurate
 measurement reading.
+
+[Click here to download file](http://www.3dvia.com/content/EDA340E3F5C7D9EB/indicator-base-top)

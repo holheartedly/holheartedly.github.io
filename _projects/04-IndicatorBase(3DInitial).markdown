@@ -22,3 +22,5 @@ see how feels in the hand. One reason why this design was scrapped was because
 it did not feel good in the hands. Even if the sharp corners and sides were
 rounded, the tool did not feel comfortable in the hand. The final design is
 designed to be stationary rather than hand held.
+
+[Click here to download file](http://www.3dvia.com/content/ECA47FE2F4C6D8EA/3d-print-grip-eprt)

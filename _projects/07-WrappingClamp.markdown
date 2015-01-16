@@ -21,3 +21,5 @@ was focused more on practicality and less on cosmetic. I used a rubber boot as
 the handle because there was an abundance of boots. The boot is made of soft
 rubber which provides a comfortable handle for the user to grasp on to. In the
 end, the wrapping clamp not only decreased strain, it also decreased lead time.
+
+[Click here to download file](http://www.3dvia.com/content/6E23FF6476485A6C/wrapping-clamp)

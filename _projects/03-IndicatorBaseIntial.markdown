@@ -16,3 +16,5 @@ Solution: This is the initial design for the indicator base. The initial conditi
 project was to have the base be held in the hand. The pressure gage is placed on
 the top and the base will rest on the cable. This design was scrapped because
 the base was unstable and it gave inaccurate measurement.
+
+[Click here to download file](http://www.3dvia.com/content/2D64BF233507192B/grip-final-eprt)

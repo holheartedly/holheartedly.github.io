@@ -19,3 +19,5 @@ of debris and residue still left inside. To clean the cable, the rotating pin
 cleaner will be inserted into the cable. The quarter circle cavities will remove
 the debris and residue which will then flow out of the cleaner through the slits
 on the side. The fallout rate was reduced with the help of the pin cleaner.
+
+[Click here to download file](http://www.3dvia.com/content/2E63802436081A2C/pin-cleaner)

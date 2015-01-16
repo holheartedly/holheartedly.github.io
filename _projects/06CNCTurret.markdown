@@ -21,3 +21,5 @@ the drawing for that specific tool configuration and set the machine up. To make
 the set up more efficient, I had different angular views for the turret and a
 list of each of the tool number and name. These drawings helped decrease the CNC
 prep time and eliminate possible confusion.
+
+[Click here to download file](http://www.3dvia.com/content/ADE33FA3B58799AB/cnc-turret)
