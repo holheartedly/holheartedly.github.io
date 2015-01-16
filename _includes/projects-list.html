@@ -1,11 +1,11 @@
-<p><h3 class="center">Projects</h3></p>
+<p><h2 class="center">Projects</h2></p>
 {% for project in site.projects %}
 <div class="row quarter">
   <div class="4u">
     <a href="{{project.url}}" class="image fit"><img src="{% if project.image == nil %}http://www.gravatar.com/avatar/caae2f7a52c933722ae4f5da5b1a2b4a?d=identicon&amp;s=500{% else %}{{project.image}}{% endif %}"></a>
   </div>
   <div class="8u">
-    <a href="{{project.url}}"><h1>{{project.name}}</h1></a>
+    <a href="{{project.url}}"><h3>{{project.name}}</h3></a>
     <p>{{project.description}}</p>
   </div>
 </div>

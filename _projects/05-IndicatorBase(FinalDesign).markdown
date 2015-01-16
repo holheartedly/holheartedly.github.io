@@ -1,7 +1,7 @@
 ---
 layout: project
 name: Indicator Base (Final Design)
-description: A base to hold a cable connector as a pressure gage is used to measure specific points. This is the final design of the base. It was originally designed to be handheld but was later altered to be stationary.
+description: A base to hold a cable connector as a pressure gage is used to measure specific points. This is the final design of the base. It was originally designed to be handheld but was later altered to be stationary...(Please click on picture for more detail)
 url: http://www.3dvia.com/content/EDA340E3F5C7D9EB/indicator-base-top
 image: /images/05IndicatorBaseFinal.jpg
 ---
@@ -10,7 +10,9 @@ Indicator Base (Final Design)
 
 <img class="image fit" src="/images/05IndicatorBaseFinal.jpg">
 
-The indicator base went through many stages of alternations due to changes in
+Problem: The initial design did not perform well in real life testing.
+
+Solution: The indicator base went through many stages of alternations due to changes in
 the customer’s conditions. The purpose of the indicator base was to hold a cable
 while it was being measured by a pressure gage. The initial design of the
 indictor was scrapped because the initial base provided an unstable platform
